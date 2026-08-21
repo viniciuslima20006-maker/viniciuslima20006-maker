@@ -5,7 +5,7 @@
 * 🎓 **Atualmente cursando:** ADS (Análise e Desenvolvimento de Sistemas) / Senac
 * 🎯 **Foco de aprendizado:** Desenvolvimento Web, Python, Java e JavaScript
 * 🎨 **Praticando:** Design no dia a dia, buscando me aprofundar através de cursos e projetos práticos
-* ⚡ **Curiosidades:** Líder de adolescentes na igreja, auxiliar na fabricação de bolos e monitor de brinquedos de festa
+
 
 ---
 <div align="center">
