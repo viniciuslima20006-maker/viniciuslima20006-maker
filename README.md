@@ -8,12 +8,6 @@
 
 
 ---
-<div align="center">
-  <a href="https://github.com/viniciuslima20006-maker">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=viniciuslima20006-maker&show_icons=true&theme=dark" />
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=viniciuslima20006-maker&layout=compact&theme=dark" />
-  </a>
-</div>
 
 <br />
 
